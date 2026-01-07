@@ -33,3 +33,5 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+ - [`Impact-of-Pixel-Normalization-on-the-Performance-of-Different-CNN-Activation-Functions-in-FashionMNIST`](projects/Impact-of-Pixel-Normalization-on-the-Performance-of-Different-CNN-Activation-Functions-in-FashionMNIST/notebook.ipynb): _Impact of Pixel Normalization on the Performance of Different CNN Activation Functions in FashionMNIST_
+    - This project investigates how input normalization ranges affect the relative performance of ReLU and Tanh activation functions in CNNs.
