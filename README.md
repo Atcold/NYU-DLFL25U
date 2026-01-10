@@ -33,3 +33,5 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+ - [`Effects_of_various_memory_infrastructure`](projects/Effects_of_various_memory_infrastructure/notebook.ipynb): Effects of various memory infrastructure
+    - This project compares the n-gram feedforward model to various RNN models to see the advantage of hidden state as compared to previous n tokens, and how the memory support of each RNN model differs and effects the result.
