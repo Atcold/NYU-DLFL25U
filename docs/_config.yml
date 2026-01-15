@@ -45,3 +45,4 @@ exclude:
 #   - path: en/faq.md
 chapters:
   - path: projects/template/report.md
+  - path: projects/NC_visualization/report.md
