@@ -1,5 +1,5 @@
 ---
-title: Visualizing Neural Collapse with a Rank-1 Bottleneck
+title: Visualizing Neural Collapse with a 1-D Bottleneck Representation
 author: Huayuan Hu
 date: 14 Jan 2026
 ---

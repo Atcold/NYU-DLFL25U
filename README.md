@@ -34,5 +34,5 @@ The project order reflects the student's total score in the course.
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
 
- - [`NC_visualization`](projects/NC_visualization/notebook.ipynb): _Visualizing Neural Collapse with a Rank-1 Bottleneck_
+ - [`NC_visualization`](projects/NC_visualization/notebook.ipynb): _Visualizing Neural Collapse with a 1-D Bottleneck Representation_
     - We visualize how class representations change and collapse under long training with a rank-1 bottleneck in the final linear layer.
