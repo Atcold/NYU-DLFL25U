@@ -33,3 +33,6 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+
+ - [`rnn_memory_capacity`](projects/rnn_memory_capacity/notebook.ipynb): Rnn Memory Capacity
+    - This project studies whether RNN memory decay is gradual or exhibits a "memory cliff" by measuring prediction accuracy at varying distances between key information and prediction target in RNN hidden states flow. Results show that accuracy collapses suddenly beyond a critical threshold K*, which is the "memory capacity" of RNN.
