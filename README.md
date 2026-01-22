@@ -33,3 +33,5 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+ - [`backprop_through_depth`](projects/backprop_through_depth/notebook.ipynb): _Backpropagation Through Depth_
+    - When optimizing RNNs how can you get rid of exploding/vanishing gradient problem? What if you group gradients by how deep they are? This is what our project explores.
