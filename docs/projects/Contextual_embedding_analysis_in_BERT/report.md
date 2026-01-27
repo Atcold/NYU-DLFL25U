@@ -12,7 +12,6 @@ This project investigates how contextual meaning is computed in transformer lang
 It's non-obvious because traditional word embeddings are static. This experiment explores how BERT dynamically adjusts representations based on context, moving beyond static representations and suggesting that meaning is computed, not merely stored.
 
 ## 2. Hypothesis 
-**State a single, precise hypothesis.**
 BERT embeddings for the ambiguous token 'rose' will dynamically diverge across layers when presented in sentences emphasizing different senses (flower vs. verb). Within-sense similarities (flower-flower or verb-verb) will remain high or increase, while between-sense similarities (flower-verb) will decrease in deeper layers, indicating contextual disambiguation.
 
 **Explain what outcome would support or refute it.**
