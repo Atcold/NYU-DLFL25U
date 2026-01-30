@@ -33,3 +33,5 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+ - ['NN Parameter Sparsity'](projects/NN_Parameter_Sparsity/NN_Parameter_sparsity.ipynb): Do Neural Networks actually Use their Parameters? 
+    - Spoiler: No! This project shows how fully connected NNs can be boiled down to only 20-40% of their total parameters while retaining performance. We know this is true for images (which motivated ConvNets), but I show that this occurs for other data types as well!
