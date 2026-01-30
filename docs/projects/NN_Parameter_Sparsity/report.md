@@ -9,12 +9,12 @@ I take the idea from lectures regarding CNNs: in natural signals, most of the pa
 I take this one step further, to see if these models 'waste' parameters on other datasets as well. If so, can we boil the model down into a smaller subset of parameters that may be computationally more efficient.
 
 
-## 2. Hypothesis (≈ 30 seconds)
+## 2. Hypothesis
 A fully connected Neural network is dense, i.e each 'neuron' is connected to _all_ other neurons in a layer. However, in most cases, a given feature in a dataset is not well related to _every_ other feature.  
 Due to this, I hypothesize that in arbitrary datasets, a significant proportion of the parameters in an NN are useless, i.e removing them does not effect the performance of the model.  
 
 
-## 3. Experimental Design (≈ 2 minutes)
+## 3. Experimental Design
 For a given dataset and a trained NN, I vary the number of parameters retained, while keeping all other parameters unchanged. I then compare different proportions of retained parameters, and analyze the point at which the performance drops. 
 Importantly, I choose the initial architecture of the NN to be the smallest model that achieves reasonable performance. This accounts for the possibility that the NN could be overparameterized to begin with, making the experiment essentially useless. 
 This control makes the experiment sufficient to test the hypothesis. 
