@@ -1,5 +1,5 @@
 ---
-title: intro to DEEP LEARNING (Undergrad)
+title: Introduction to Deep Learning Research
 author: Alfredo Canziani
 lang-ref: home
 ---
