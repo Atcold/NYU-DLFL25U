@@ -33,3 +33,5 @@ The project order reflects the student's total score in the course.
 
  - [`template`](projects/template/notebook.ipynb): _Project template directory_
     - A sample project structure demonstrating how students can add their contribution via PR.
+ - [`Attention_and_Positional_Embedding`](projects/Attention_and_Positional_Embedding/notebook.ipynb): _Image classification using Attention with positional embedding_
+    - This research examines the necessity of positional embeddings in attention-based image classification. We demonstrate that without positional information, attention models struggle to distinguish classes that have similar patch appearances but different arrangements.
