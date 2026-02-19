@@ -10,11 +10,11 @@ date: 25 Jan 2026
 One way to classify jigsawed images is using **attention-based models**. Unlike CNN, attention mechanisms are **permutation invariant**; patches of images are treated as **tokens**, and their order isn't assumed. However, permutation invariance also introduces a limitation. Often, the order of tokens results in **different meanings** (e.g., *"horse eats apple"* vs *"apple eats horse"*). If two images have **similar-looking patches**, attention will struggle to classify them, as those images are different not mostly based on their spatial structure but rather their **geometry**. In such cases, we can experiment using **attention with positional embedding** to understand how patches are arranged in space.
 
 
-## 2. Hypothesis (≈ 30 seconds)
+## 2. Hypothesis
 When using **attention-based models** for image classification, **positional embeddings** are necessary to distinguish images that share similar sets of patches(tokens). While a permutation-invariant attention model may succeed on classes with clearly **distinct** patch content (e.g., *“1” vs. “8”*), it will fail on classes where the label is primarily determined by **spatial arrangement and geometry** rather than patch appearance (e.g., *“6” vs. “9”*).
 
 
-## 3. Experimental Design (≈ 2 minutes)
+## 3. Experimental Design
 
 ### Models
 We evaluate three models.  
