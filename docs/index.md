@@ -93,3 +93,13 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 
 [![Lesson 05 blackboard 1](https://lh3.googleusercontent.com/d/1fJzySpr1PnR8vRJOhtyUJGaaBEGDpXwN)](https://drive.google.com/file/d/1fJzySpr1PnR8vRJOhtyUJGaaBEGDpXwN/)
 [![Lesson 05 blackboard 2](https://lh3.googleusercontent.com/d/1bEQYE4GCo2DznHWqzdLNzBovkYW7No6r)](https://drive.google.com/file/d/1bEQYE4GCo2DznHWqzdLNzBovkYW7No6r/)
+
+## Lesson 06: A softer perceptron, part II: likelihood and loss [🎥](https://youtu.be/6urnjbulYt0)
+
+*Cross-entropy turns belief into a training signal 📐📊*
+
+**Suggested readings**
+- Watt, Borhani & Katsaggelos (2020) [*Machine learning refined* (2nd ed), § 6.2 *Logistic regression and the cross-entropy cost*](https://www.mlrefined.com/)
+
+[![Lesson 06 blackboard 1](https://lh3.googleusercontent.com/d/1z_0_zvYhYWlkx9U0bQmBcl8PEopgMJo5)](https://drive.google.com/file/d/1z_0_zvYhYWlkx9U0bQmBcl8PEopgMJo5/)
+[![Lesson 06 blackboard 2](https://lh3.googleusercontent.com/d/1y8wWpJtx2J5nboVpue8PCw4t-OKNBIJ3)](https://drive.google.com/file/d/1y8wWpJtx2J5nboVpue8PCw4t-OKNBIJ3/)
