@@ -1,5 +1,7 @@
 # Lesson 05: A softer perceptron, part I: probabilities
 
+**Recording:** GMT20250916-164956
+
 ## Post
 
 🎓 Fifth lecture is live on YouTube! ▶️

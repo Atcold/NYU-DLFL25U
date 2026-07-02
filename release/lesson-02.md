@@ -1,5 +1,7 @@
 # Lesson 02: Programming a neural network
 
+**Recording:** GMT20250904-162903
+
 ## Post
 
 🎓 Second lecture is live on YouTube! ▶️

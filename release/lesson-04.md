@@ -1,5 +1,7 @@
 # Lesson 04: Bias, perceptron properties, and multi-class classification
 
+**Recording:** GMT20250911-162908
+
 ## Post
 
 🎓 Fourth lecture is live on YouTube! ▶️

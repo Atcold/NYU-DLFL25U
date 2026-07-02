@@ -1,4 +1,6 @@
-# Lesson 06: A softer perceptron, part I: likelihood and loss
+# Lesson 06: A softer perceptron, part II: likelihood and loss
+
+**Recording:** GMT20250918-162949
 
 ## Post
 

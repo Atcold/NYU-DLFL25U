@@ -1,5 +1,7 @@
 # Lesson 01: Course intro + McCulloch & Pitts binary neuron
 
+**Recording:** GMT20250902-162948
+
 ## Post
 
 🎓 First lecture is live on YouTube! ▶️

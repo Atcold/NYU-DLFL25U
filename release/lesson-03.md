@@ -1,5 +1,7 @@
 # Lesson 03: Wiener's cybernetics, Hebbian plasticity, and Rosenblatt's perceptron
 
+**Recording:** GMT20250909-163511
+
 ## Post
 
 🎓 Third lecture is live on YouTube! ▶️

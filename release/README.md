@@ -17,5 +17,6 @@
 | 02 | Programming a neural network | 4/4 | 4/4 |
 | 03 | Wiener's cybernetics, Hebbian plasticity, and Rosenblatt's perceptron | 4/4 | 4/4 |
 | 04 | Bias, perceptron properties, and multi-class classification | 4/4 | 4/4 |
-| 05 | A softer perceptron, part I: probabilities | 1/4 | 4/4 |
-| 06 | A softer perceptron, part II: likelihood and loss | 0/4 | 0/4 |
+| 05 | A softer perceptron, part I: probabilities | 4/4 | 4/4 |
+| 06 | A softer perceptron, part II: likelihood and loss | 4/4 | 4/4 |
+| 07 | A softer perceptron, part III: gradient descent | 4/4 | 4/4 |
