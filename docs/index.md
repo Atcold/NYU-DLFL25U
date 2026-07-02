@@ -21,6 +21,13 @@ lang-ref: home
     opacity: 0.55;
     font-style: italic;
 }
+@media (max-width: 700px) { /* reclaim horizontal space on phones */
+    /* shrink the variable, not .page's padding directly, so the menu bar's
+       negative margin (calc(0px - var(--page-padding))) stays in sync and
+       doesn't overflow the viewport */
+    :root { --page-padding: 0px; }
+    .content { padding-left: 8px; padding-right: 8px; }
+}
 </style>
 
 **CSCI-UA 480 075 · FALL 2025 · [NYU COURANT INSTITUTE OF MATHEMATICAL SCIENCES](https://cims.nyu.edu/)**
