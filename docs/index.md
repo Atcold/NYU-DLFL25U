@@ -141,9 +141,17 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 [![Lesson 07 blackboard 1](https://lh3.googleusercontent.com/d/1R2GCdgUSV42mbrtgl4KYqAoaDEHxRTah)](https://drive.google.com/file/d/1R2GCdgUSV42mbrtgl4KYqAoaDEHxRTah/)
 [![Lesson 07 blackboard 2](https://lh3.googleusercontent.com/d/1c7jzz5Bkas7ZwLPLs4pXWP_u52aWe6Vz)](https://drive.google.com/file/d/1c7jzz5Bkas7ZwLPLs4pXWP_u52aWe6Vz/)
 
-## Lesson 08
+## Lesson 08 [🎥](https://youtu.be/-5CbEost-0E)
 
-<div class="lesson-box"><div class="lesson-title">A softer perceptron, part IV: hardening and multi-class</div></div>
+<div class="lesson-box"><div class="lesson-title">A softer perceptron, part IV: hardening and multi-class</div><div class="lesson-sub">One update rule 🔁 w ← w + (y − ỹ)f(x), soft 🍦 or hard 🧊, 2 classes or K</div></div>
+
+**Suggested readings**
+- [*Formal language*](https://en.wikipedia.org/wiki/Formal_language) (introduction only)
+- [*Interpretation (logic)*](https://en.wikipedia.org/wiki/Interpretation_(logic)) (definition only)
+- [*Positive and negative parts*](https://en.wikipedia.org/wiki/Positive_and_negative_parts)
+
+[![Lesson 08 blackboard 1](https://lh3.googleusercontent.com/d/1_SmDgzzhykDJ7ZwDO1Hshs1uRA7jUy3h)](https://drive.google.com/file/d/1_SmDgzzhykDJ7ZwDO1Hshs1uRA7jUy3h/)
+[![Lesson 08 blackboard 2](https://lh3.googleusercontent.com/d/1NDx3SVUgUxY7YnGSUqkIaKVRm8lQPcnz)](https://drive.google.com/file/d/1NDx3SVUgUxY7YnGSUqkIaKVRm8lQPcnz/)
 
 ## Lesson 09
 
