@@ -21,6 +21,12 @@ lang-ref: home
     opacity: 0.55;
     font-style: italic;
 }
+/* upcoming lessons render very transparent: the box has no punchline yet and
+   the "Lesson NN" heading has no 🎥 link. Publishing adds both, un-dimming them. */
+.lesson-box:not(:has(.lesson-sub)),
+h2:not(:has(a)) {
+    opacity: 0.25;
+}
 @media (max-width: 700px) { /* reclaim horizontal space on phones */
     /* shrink the variable, not .page's padding directly, so the menu bar's
        negative margin (calc(0px - var(--page-padding))) stays in sync and
