@@ -159,9 +159,14 @@ Legend: 🖥 slides, 📝 notes, 📓 Jupyter notebook, 🎥 YouTube video.
 [![Lesson 08 blackboard 1](https://lh3.googleusercontent.com/d/1_SmDgzzhykDJ7ZwDO1Hshs1uRA7jUy3h)](https://drive.google.com/file/d/1_SmDgzzhykDJ7ZwDO1Hshs1uRA7jUy3h/)
 [![Lesson 08 blackboard 2](https://lh3.googleusercontent.com/d/1NDx3SVUgUxY7YnGSUqkIaKVRm8lQPcnz)](https://drive.google.com/file/d/1NDx3SVUgUxY7YnGSUqkIaKVRm8lQPcnz/)
 
-## Lesson 09
+## Lesson 09 [🎥](https://youtu.be/QJJGDtiR6bw)
 
-<div class="lesson-box"><div class="lesson-title">A softer perceptron, part V: multi-class likelihood and loss</div></div>
+<div class="lesson-box"><div class="lesson-title">A softer perceptron, part V: multi-class likelihood and loss</div><div class="lesson-sub">Two soft cousins 👯: softargmax 🔺 for the probs, softmax − yᵀs 📉 for the loss</div></div>
+
+**Suggested readings**
+- [*Simplex*](https://en.wikipedia.org/wiki/Simplex)
+
+[![Lesson 09 blackboard](https://lh3.googleusercontent.com/d/1tdWnSrGNxjDHDR1SHe2OvKxRV2uW2ZpO)](https://drive.google.com/file/d/1tdWnSrGNxjDHDR1SHe2OvKxRV2uW2ZpO/)
 
 ## Lesson 10
 
