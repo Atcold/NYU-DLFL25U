@@ -21,3 +21,4 @@
 | 06 | A softer perceptron, part II: likelihood and loss | 4/4 | 4/4 |
 | 07 | A softer perceptron, part III: gradient descent | 4/4 | 4/4 |
 | 08 | A softer perceptron, part IV: hardening and multi-class | 4/4 | 4/4 |
+| 09 | A softer perceptron, part V: multi-class likelihood and loss | 1/4 | 4/4 |
